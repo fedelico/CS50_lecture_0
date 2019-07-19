@@ -8,12 +8,11 @@ table{
 	border: 3px solid black;
 }
 
-th{
+th ,td{
 	border: 2px dotted black;
+	border-collapse: collapse;
 }
-td{
-	border: 2px dotted black;
-}
+
 input {
 	text-align: left;
 }
