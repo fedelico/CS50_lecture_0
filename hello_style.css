@@ -4,6 +4,16 @@ h1 {
 	font-family: Arial , sans-serif;
 	font-weight: bold;
 }
+table{
+	border: 3px solid black;
+}
+
+th{
+	border: 2px dotted black;
+}
+td{
+	border: 2px dotted black;
+}
 input {
 	text-align: left;
 }
